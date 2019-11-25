@@ -1,0 +1,14 @@
+{
+  "name": "moderator-data",
+  "version": "1.0.0",
+  "description": "Offline backup of feedme-moderator data uses for indexing and analytics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@feedmejefferson/ladle": "0.0.2"
+  }
+}
