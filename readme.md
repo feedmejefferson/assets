@@ -22,6 +22,8 @@ The [docs/theme](docs/theme) folder may contain some minimal branding assets for
 
 All other folders in the [docs](docs) folder contain cloud storage assets that should be synced to the `assets` folder of cloud storage.
 
+We use the [reindexed](reindexed) folder as a staging folder for files coming back from the R script. These still need to be preprocessed by the `ladle associate` command before being imported back into the firestore `indices` collection.
+
 ## Tooling
 
 Ladle is a very rough command line tool built specifically to assist us with importing and exporting our dynamic firestore data. We do this both for backing up the data (which gives us the ability to roll back to previously saved backups by reimporting the data) but also for offline analytic processing and indexing. 
@@ -60,9 +62,9 @@ npx ladle export foods database/foods
 The R script creates an array of objects. We need to convert that to an associative array (aka a map object) wrapped inside of the `data` field of another object. The ladle associate command does that for us.
 
 ```
-npx ladle associate ../feedme-data/tag-analysis/moderator/tagStats.json docs/meta/indices/tagStats
-npx ladle associate ../feedme-data/tag-analysis/moderator/foodStats.json docs/meta/indices/foodStats
-npx ladle associate ../feedme-data/tag-analysis/moderator/tagFoods.json docs/meta/indices/tagFoods
+npx ladle associate reindexed/tagStats.json docs/meta/indices/tagStats
+npx ladle associate reindexed/foodStats.json docs/meta/indices/foodStats
+npx ladle associate reindexed/tagFoods.json docs/meta/indices/tagFoods
 ```
 
 ### Import the update Indexes
