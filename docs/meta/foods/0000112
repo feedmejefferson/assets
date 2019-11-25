@@ -1,0 +1,36 @@
+{
+ "containsTags": [
+  "carrot",
+  "nori",
+  "roll",
+  "rice",
+  "salmon",
+  "seaweed",
+  "vegetables",
+  "wasabi",
+  "avocado",
+  "maki",
+  "fish"
+ ],
+ "descriptiveTags": [
+  "asian",
+  "japanese",
+  "dinner",
+  "seafood",
+  "appetizer",
+  "lunch",
+  "snack",
+  "_mvp"
+ ],
+ "edited": "2019-11-22T06:56:09.266Z",
+ "id": "0000112",
+ "isTags": [
+  "sushi"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "California Maki on Dish",
+ "originUrl": "https://www.pexels.com/photo/357756",
+ "title": "Maki Sushi roll",
+ "updated": "2019-11-22T06:56:09.266Z"
+}

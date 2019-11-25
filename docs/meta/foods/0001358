@@ -1,0 +1,30 @@
+{
+ "containsTags": [
+  "fish",
+  "rice",
+  "seafood",
+  "soysauce",
+  "seaweed",
+  "nori",
+  "maki",
+  "nigiri"
+ ],
+ "descriptiveTags": [
+  "asian",
+  "japanese",
+  "lunch",
+  "dinner",
+  "appetizer"
+ ],
+ "edited": "2019-11-22T07:13:13.104Z",
+ "id": "0001358",
+ "isTags": [
+  "sushi"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Sushi",
+ "originUrl": "https://www.pexels.com/photo/8753",
+ "title": "Maki and Nigiri Sushi",
+ "updated": "2019-11-22T07:13:13.104Z"
+}

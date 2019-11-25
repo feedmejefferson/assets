@@ -1,0 +1,28 @@
+{
+ "containsTags": [
+  "blueberries",
+  "raspberries",
+  "fruit",
+  "creamcheese",
+  "cheese",
+  "baked"
+ ],
+ "descriptiveTags": [
+  "dessert",
+  "sweet",
+  "snack",
+  "dairy",
+  "_mvp"
+ ],
+ "edited": "2019-09-01T00:00:00.000Z",
+ "id": "0001043",
+ "isTags": [
+  "tart"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Strawberry Pie",
+ "originUrl": "https://www.pexels.com/photo/79479",
+ "title": "Cream Cheese Tarts with Blueberry and Raspberry",
+ "updated": "2019-11-19T06:44:32.796Z"
+}

@@ -1,0 +1,33 @@
+{
+ "containsTags": [
+  "bread",
+  "bun",
+  "chicken",
+  "lettuce",
+  "meat",
+  "tomato",
+  "vegetable",
+  "friedchicken",
+  "kaiserroll"
+ ],
+ "descriptiveTags": [
+  "lunch",
+  "dinner",
+  "southern",
+  "american",
+  "fried",
+  "_mvp"
+ ],
+ "edited": "2019-09-01T00:00:00.000Z",
+ "id": "0000968",
+ "isTags": [
+  "friedchicken",
+  "sandwich"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Brown Chicken Meat Sandwich",
+ "originUrl": "https://www.pexels.com/photo/214162",
+ "title": "Fried Chicken Sandwich",
+ "updated": "2019-09-01T00:00:00.000Z"
+}

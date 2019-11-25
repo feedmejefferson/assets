@@ -1,0 +1,37 @@
+{
+ "containsTags": [
+  "bread",
+  "bun",
+  "meat",
+  "sesameseeds",
+  "burger",
+  "cheese",
+  "lettuce",
+  "potato",
+  "sesame",
+  "tomato",
+  "vegetable",
+  "cheeseburger",
+  "crinklefries",
+  "frenchfries",
+  "fries"
+ ],
+ "descriptiveTags": [
+  "fastfood",
+  "dinner",
+  "lunch",
+  "american",
+  "dairy"
+ ],
+ "edited": "2019-09-01T00:00:00.000Z",
+ "id": "0001205",
+ "isTags": [
+  "hamburger"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Cheese Burger With Lettuce",
+ "originUrl": "https://www.pexels.com/photo/532800",
+ "title": "Hamburger with Crinkle Fries",
+ "updated": "2019-09-01T00:00:00.000Z"
+}

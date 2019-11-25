@@ -1,0 +1,31 @@
+{
+ "containsTags": [
+  "vegetable",
+  "vegetarian",
+  "bread",
+  "baked",
+  "cheese",
+  "tomato",
+  "lettuce",
+  "pepper",
+  "openfacedsandwich"
+ ],
+ "descriptiveTags": [
+  "breakfast",
+  "lunch",
+  "snack",
+  "dairy",
+  "fingerfood"
+ ],
+ "edited": "2019-09-01T00:00:00.000Z",
+ "id": "0001447",
+ "isTags": [
+  "sandwich"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Sandwiches with cheese, lettuce and tomato on a plate",
+ "originUrl": "https://www.pexels.com/photo/6467",
+ "title": "Open faced Sandwiches with cheese, lettuce and tomato",
+ "updated": "2019-11-19T06:44:37.403Z"
+}

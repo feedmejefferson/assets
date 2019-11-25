@@ -1,0 +1,28 @@
+{
+ "containsTags": [
+  "cheese",
+  "mozzarella",
+  "pepperoni",
+  "tomatosauce",
+  "meat"
+ ],
+ "descriptiveTags": [
+  "italian",
+  "american",
+  "dinner",
+  "lunch",
+  "dairy",
+  "_mvp"
+ ],
+ "edited": "2019-09-01T00:00:00.000Z",
+ "id": "0000861",
+ "isTags": [
+  "pizza"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Pizza With Box on Table",
+ "originUrl": "https://www.pexels.com/photo/280453",
+ "title": "Pepperoni Pizza",
+ "updated": "2019-09-01T00:00:00.000Z"
+}

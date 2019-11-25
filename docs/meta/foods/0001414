@@ -1,0 +1,25 @@
+{
+ "containsTags": [
+  "bread",
+  "eggs",
+  "bacon",
+  "salad",
+  "sidesalad",
+  "lettuce",
+  "tomato"
+ ],
+ "descriptiveTags": [
+  "breakfast"
+ ],
+ "edited": "2019-09-01T00:00:00.000Z",
+ "id": "0001414",
+ "isTags": [
+  "baconandeggcups"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Baked Pastry",
+ "originUrl": "https://www.pexels.com/photo/8821",
+ "title": "Bacon and Egg Breakfast Cups",
+ "updated": "2019-09-01T00:00:00.000Z"
+}

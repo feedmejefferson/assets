@@ -1,0 +1,24 @@
+{
+ "containsTags": [
+  "egg",
+  "cheese",
+  "lettuce",
+  "salad"
+ ],
+ "descriptiveTags": [
+  "breakfast",
+  "lunch"
+ ],
+ "edited": "2019-09-01T00:00:00.000Z",
+ "id": "0001064",
+ "isTags": [
+  "bagel",
+  "sandwich"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Sandwich With Vegetables on White Ceramic Plate",
+ "originUrl": "https://www.pexels.com/photo/6492",
+ "title": "Bagel Breakfast Sandwich with Side Salad",
+ "updated": "2019-09-01T00:00:00.000Z"
+}

@@ -1,0 +1,34 @@
+{
+ "containsTags": [
+  "bread",
+  "cucumber",
+  "creamcheese",
+  "raw",
+  "salmon",
+  "open-facedsandwich",
+  "fish",
+  "seafood",
+  "vegetable",
+  "fresh",
+  "toast"
+ ],
+ "descriptiveTags": [
+  "appetizer",
+  "lunch",
+  "dinner",
+  "breakfast",
+  "dairy",
+  "_mvp"
+ ],
+ "edited": "2019-09-01T00:00:00.000Z",
+ "id": "0000636",
+ "isTags": [
+  "sandwich"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Sashimi Served on Plate",
+ "originUrl": "https://www.pexels.com/photo/398259",
+ "title": "Salmon, Cucumber and Cream Cheese on Toast",
+ "updated": "2019-09-01T00:00:00.000Z"
+}

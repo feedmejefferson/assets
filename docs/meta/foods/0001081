@@ -1,0 +1,26 @@
+{
+ "containsTags": [
+  "baguette",
+  "bread",
+  "cheese",
+  "lettuce",
+  "vegetables",
+  "wheat"
+ ],
+ "descriptiveTags": [
+  "lunch",
+  "dinner",
+  "dairy"
+ ],
+ "edited": "2019-09-01T00:00:00.000Z",
+ "id": "0001081",
+ "isTags": [
+  "sandwich"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Bread With Spinach and Carrots",
+ "originUrl": "https://www.pexels.com/photo/208485",
+ "title": "Sandwich with Cheese and Lettuce",
+ "updated": "2019-09-01T00:00:00.000Z"
+}

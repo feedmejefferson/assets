@@ -1,0 +1,32 @@
+{
+ "containsTags": [
+  "bread",
+  "fried",
+  "tomato",
+  "fries",
+  "lettuce",
+  "sandwich",
+  "vegetable",
+  "cheese",
+  "marinara",
+  "marinarasauce",
+  "dip"
+ ],
+ "descriptiveTags": [
+  "grilled",
+  "american",
+  "barfood"
+ ],
+ "edited": "2019-09-01T00:00:00.000Z",
+ "id": "0000036",
+ "isTags": [
+  "grilledcheesesandwich",
+  "frenchfries"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Brown Wooden Tray",
+ "originUrl": "https://www.pexels.com/photo/62097",
+ "title": "Grilled Cheese Sandwich with Fries",
+ "updated": "2019-09-01T00:00:00.000Z"
+}

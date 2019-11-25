@@ -1,0 +1,27 @@
+{
+ "containsTags": [
+  "chicken",
+  "lime",
+  "rice",
+  "onion",
+  "pepper",
+  "tortilla",
+  "cheese",
+  "burrito"
+ ],
+ "descriptiveTags": [
+  "mexicanfood",
+  "_mvp"
+ ],
+ "edited": "2019-09-01T00:00:00.000Z",
+ "id": "0000004",
+ "isTags": [
+  "chickenburrito"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Tacos With Lime",
+ "originUrl": "https://www.pexels.com/photo/461198",
+ "title": "Chicken Burrito",
+ "updated": "2019-09-01T00:00:00.000Z"
+}

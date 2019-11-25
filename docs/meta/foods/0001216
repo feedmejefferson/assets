@@ -1,0 +1,27 @@
+{
+ "containsTags": [
+  "bread",
+  "breakfast",
+  "meat",
+  "bun",
+  "cheese",
+  "dinner",
+  "lettuce",
+  "lunch",
+  "sandwich",
+  "tomato",
+  "vegetable"
+ ],
+ "descriptiveTags": {
+ },
+ "edited": "2019-03-01T00:00:00.000Z",
+ "id": "0001216",
+ "isTags": {
+ },
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Sandwich",
+ "originUrl": "https://www.pexels.com/photo/5678",
+ "title": "Sandwich",
+ "updated": "2019-03-01T00:00:00.000Z"
+}

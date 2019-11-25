@@ -1,0 +1,30 @@
+{
+ "containsTags": [
+  "rice",
+  "seafood",
+  "shrimp",
+  "shellfish",
+  "nigiri",
+  "nori",
+  "seaweed"
+ ],
+ "descriptiveTags": [
+  "dinner",
+  "japanese",
+  "lunch",
+  "appetizer",
+  "snack",
+  "asian"
+ ],
+ "edited": "2019-09-01T00:00:00.000Z",
+ "id": "0001392",
+ "isTags": [
+  "sushi"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Prawn Sushi on Black Platter",
+ "originUrl": "https://www.pexels.com/photo/359992",
+ "title": "Nigiri and Tobiko Gunkan Sushi",
+ "updated": "2019-11-22T09:48:09.792Z"
+}

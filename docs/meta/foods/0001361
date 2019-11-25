@@ -1,0 +1,33 @@
+{
+ "containsTags": [
+  "bread",
+  "burger",
+  "fried",
+  "pickle",
+  "cheese",
+  "frenchfries",
+  "hamburger",
+  "lettuce",
+  "sesameseeds",
+  "vegetables",
+  "fries",
+  "potato",
+  "bun"
+ ],
+ "descriptiveTags": [
+  "dinner",
+  "lunch",
+  "barfood"
+ ],
+ "edited": "2019-09-01T00:00:00.000Z",
+ "id": "0001361",
+ "isTags": [
+  "burger"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Burger and Potato Fries",
+ "originUrl": "https://www.pexels.com/photo/572981",
+ "title": "Burger and Fries",
+ "updated": "2019-09-01T00:00:00.000Z"
+}

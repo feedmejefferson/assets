@@ -1,0 +1,27 @@
+{
+ "containsTags": [
+  "corn",
+  "cheese",
+  "tomato",
+  "crust",
+  "vegetable",
+  "olives"
+ ],
+ "descriptiveTags": [
+  "lunch",
+  "dinner",
+  "italian",
+  "_mvp"
+ ],
+ "edited": "2019-09-01T00:00:00.000Z",
+ "id": "0000127",
+ "isTags": [
+  "pizza"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Pizza With Sliced Tomatoes on Brown Box",
+ "originUrl": "https://www.pexels.com/photo/7658",
+ "title": "Pizza with Corn, Tomatoes and Olives",
+ "updated": "2019-09-01T00:00:00.000Z"
+}

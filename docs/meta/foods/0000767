@@ -1,0 +1,27 @@
+{
+ "containsTags": [
+  "meat",
+  "tortilla",
+  "lettuce",
+  "vegetable",
+  "sourcream"
+ ],
+ "descriptiveTags": [
+  "mexican",
+  "lunch",
+  "dinner",
+  "dairy",
+  "_mvp"
+ ],
+ "edited": "2019-09-01T00:00:00.000Z",
+ "id": "0000767",
+ "isTags": [
+  "burrito"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Person Holding Burrito",
+ "originUrl": "https://www.pexels.com/photo/580611",
+ "title": "Burrito",
+ "updated": "2019-09-01T00:00:00.000Z"
+}

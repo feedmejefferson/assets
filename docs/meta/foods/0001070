@@ -1,0 +1,29 @@
+{
+ "containsTags": [
+  "croissant",
+  "bread",
+  "roastbeef",
+  "meat",
+  "brie",
+  "cheese",
+  "lettuce",
+  "vegetable"
+ ],
+ "descriptiveTags": [
+  "lunch",
+  "dinner",
+  "dairy",
+  "_mvp"
+ ],
+ "edited": "2019-09-01T00:00:00.000Z",
+ "id": "0001070",
+ "isTags": [
+  "sandwich"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Sandwich With Vegetables and Meat on Black Ceramic Plate",
+ "originUrl": "https://www.pexels.com/photo/7390",
+ "title": "Roast Beef and Brie Sandwich on  Croissant",
+ "updated": "2019-11-19T06:44:33.506Z"
+}

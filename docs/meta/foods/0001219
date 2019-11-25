@@ -1,0 +1,28 @@
+{
+ "containsTags": [
+  "burger",
+  "cheese",
+  "bun",
+  "bread",
+  "bacon",
+  "lettuce",
+  "mayonnaise"
+ ],
+ "descriptiveTags": [
+  "fastfood",
+  "dinner",
+  "lunch",
+  "meat"
+ ],
+ "edited": "2019-09-01T00:00:00.000Z",
+ "id": "0001219",
+ "isTags": [
+  "hamburger"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Knife on Burger on a Salad Plate",
+ "originUrl": "https://www.pexels.com/photo/580612",
+ "title": "Hamburger",
+ "updated": "2019-09-01T00:00:00.000Z"
+}

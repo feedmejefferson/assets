@@ -1,0 +1,24 @@
+{
+ "containsTags": [
+  "salad",
+  "vegetable",
+  "fresh"
+ ],
+ "descriptiveTags": [
+  "lunch",
+  "dinner",
+  "side",
+  "vegetarian"
+ ],
+ "edited": "2019-09-01T00:00:00.000Z",
+ "id": "0001009",
+ "isTags": [
+  "lettuce"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Green and White Lettuce",
+ "originUrl": "https://www.pexels.com/photo/102123",
+ "title": "Lettuce",
+ "updated": "2019-09-01T00:00:00.000Z"
+}

@@ -1,0 +1,26 @@
+{
+ "containsTags": [
+  "chocolate",
+  "coffee",
+  "baked",
+  "pastry",
+  "bread"
+ ],
+ "descriptiveTags": [
+  "breakfast",
+  "dessert",
+  "sweet",
+  "french"
+ ],
+ "edited": "2019-09-01T00:00:00.000Z",
+ "id": "0001331",
+ "isTags": [
+  "croissant"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Fresh Breakfast in Plate",
+ "originUrl": "https://www.pexels.com/photo/248467",
+ "title": "Croissants with Chocolate Sauce",
+ "updated": "2019-11-19T06:44:35.635Z"
+}

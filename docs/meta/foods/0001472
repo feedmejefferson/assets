@@ -1,0 +1,26 @@
+{
+ "containsTags": [
+  "vegetable",
+  "meat",
+  "cheese",
+  "potato",
+  "bacon"
+ ],
+ "descriptiveTags": [
+  "appetizer",
+  "snack",
+  "fingerfood",
+  "dairy"
+ ],
+ "edited": "2019-11-22T06:51:57.056Z",
+ "id": "0001472",
+ "isTags": [
+  "croquette"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Round Food With Bacon",
+ "originUrl": "https://www.pexels.com/photo/166031",
+ "title": "Baked Cheese Potato Croquettes with bacon on top",
+ "updated": "2019-11-22T06:51:57.056Z"
+}

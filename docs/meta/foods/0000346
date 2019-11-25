@@ -1,0 +1,26 @@
+{
+ "containsTags": [
+  "beef",
+  "bread",
+  "tomato",
+  "bun",
+  "burger",
+  "cheeseburger",
+  "fastfood",
+  "lettuce",
+  "meat",
+  "onion"
+ ],
+ "descriptiveTags": {
+ },
+ "edited": "2019-03-01T00:00:00.000Z",
+ "id": "0000346",
+ "isTags": {
+ },
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Cheese Burger",
+ "originUrl": "https://www.pexels.com/photo/161675",
+ "title": "Cheese Burger",
+ "updated": "2019-03-01T00:00:00.000Z"
+}

@@ -1,0 +1,35 @@
+{
+ "containsTags": [
+  "burger",
+  "frenchfries",
+  "groundbeef",
+  "bacon",
+  "fries",
+  "hamburger",
+  "mayonnaise",
+  "potato",
+  "lettuce",
+  "bun",
+  "dip",
+  "beef"
+ ],
+ "descriptiveTags": [
+  "fastfood",
+  "meat",
+  "american",
+  "barfood",
+  "_mvp"
+ ],
+ "edited": "2019-09-01T00:00:00.000Z",
+ "id": "0000008",
+ "isTags": [
+  "cheeseburger",
+  "steakfries"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Fries and Burger on Plate",
+ "originUrl": "https://www.pexels.com/photo/70497",
+ "title": "Bacon Cheeseburger with Steak Fries",
+ "updated": "2019-09-01T00:00:00.000Z"
+}

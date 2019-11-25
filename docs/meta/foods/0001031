@@ -1,0 +1,32 @@
+{
+ "containsTags": [
+  "bread",
+  "bun",
+  "burger",
+  "cheese",
+  "fresh",
+  "lettuce",
+  "onions",
+  "vegetables",
+  "jalapenos",
+  "sauce"
+ ],
+ "descriptiveTags": [
+  "fastfood",
+  "lunch",
+  "dinner",
+  "vegetarian",
+  "dairy"
+ ],
+ "edited": "2019-09-01T00:00:00.000Z",
+ "id": "0001031",
+ "isTags": [
+  "halloumi"
+ ],
+ "license": "Public Domain",
+ "licenseUrl": "https://creativecommons.org/publicdomain/",
+ "originTitle": "Close-up of Healthy Burger",
+ "originUrl": "https://www.pexels.com/photo/327135",
+ "title": "Halloumi Burger",
+ "updated": "2019-09-01T00:00:00.000Z"
+}
