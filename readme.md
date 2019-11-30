@@ -52,7 +52,7 @@ Get the json file for a working service account key and download/copy it into th
 ### Run the Export
 
 ```
-npx ladle export foods database/foods
+npx ladle export foods docs/meta/foods
 ```
 
 ### Run the feedme-data index-foods.R script
@@ -70,7 +70,7 @@ npx ladle associate reindexed/tagFoods.json docs/meta/indices/tagFoods
 ### Import the update Indexes
 
 ```
-npx ladle import database/indices indices
+npx ladle import docs/meta/indices indices
 ```
 
 ## Cloud Storage
