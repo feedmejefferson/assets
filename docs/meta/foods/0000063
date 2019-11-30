@@ -1,28 +1,26 @@
 {
  "containsTags": [
   "beef",
-  "cherrytomatoes",
   "chili",
+  "meat",
+  "redpepper",
+  "goulash"
+ ],
+ "descriptiveTags": [
   "dinner",
   "lunch",
-  "maincourse",
-  "meat",
-  "pasta",
-  "pork",
-  "redpepper",
-  "sauce",
-  "vegetable"
+  "hungarian",
+  "_jeff_add"
  ],
- "descriptiveTags": {
- },
- "edited": "2019-03-01T00:00:00.000Z",
+ "edited": "2019-11-29T20:53:31.336Z",
  "id": "0000063",
- "isTags": {
- },
+ "isTags": [
+  "stew"
+ ],
  "license": "Public Domain",
  "licenseUrl": "https://creativecommons.org/publicdomain/",
  "originTitle": "Meat Dish on Bowl",
  "originUrl": "https://www.pexels.com/photo/209459",
- "title": "Meat Dish on Bowl",
- "updated": "2019-03-01T00:00:00.000Z"
+ "title": "Meat Stew",
+ "updated": "2019-11-29T20:53:31.336Z"
 }
