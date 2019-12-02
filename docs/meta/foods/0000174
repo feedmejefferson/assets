@@ -2,19 +2,18 @@
  "containsTags": [
   "fastfood",
   "lunch",
-  "pizza",
-  "unhealthy"
+  "pizza"
  ],
- "descriptiveTags": {
- },
+ "descriptiveTags": [
+ ],
  "edited": "2019-03-01T00:00:00.000Z",
  "id": "0000174",
- "isTags": {
- },
+ "isTags": [
+ ],
  "license": "Public Domain",
  "licenseUrl": "https://creativecommons.org/publicdomain/",
  "originTitle": "Pizza",
  "originUrl": "https://www.pexels.com/photo/16495",
  "title": "Pizza",
- "updated": "2019-03-01T00:00:00.000Z"
+ "updated": "2019-12-01T15:01:29.382Z"
 }

@@ -8,18 +8,19 @@
   "picklespear",
   "celerysalt",
   "tomato",
-  "sportpeppers",
-  "peppercini",
   "pepper",
   "greenrelish",
   "relish",
   "poppyseedbun",
-  "sausage"
+  "sausage",
+  "pepperoncini",
+  "sportpeppers"
  ],
  "descriptiveTags": [
-  "american"
+  "american",
+  "_karen_add"
  ],
- "edited": "2019-09-01T00:00:00.000Z",
+ "edited": "2019-12-01T15:05:56.070Z",
  "id": "0003062",
  "isTags": [
   "hotdog"
@@ -29,5 +30,5 @@
  "originTitle": "Mmm... Chicago Style Hot Dog",
  "originUrl": "https://www.flickr.com/photos/jeffreyww/13974208189",
  "title": "Chicago Style Hot Dog",
- "updated": "2019-11-19T06:46:26.728Z"
+ "updated": "2019-12-01T15:05:56.070Z"
 }

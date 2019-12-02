@@ -5,19 +5,18 @@
   "chips",
   "fastfood",
   "frenchfries",
-  "hamburger",
-  "unhealthy"
+  "hamburger"
  ],
- "descriptiveTags": {
- },
+ "descriptiveTags": [
+ ],
  "edited": "2019-03-01T00:00:00.000Z",
  "id": "0000857",
- "isTags": {
- },
+ "isTags": [
+ ],
  "license": "Public Domain",
  "licenseUrl": "https://creativecommons.org/publicdomain/",
  "originTitle": "White Ceramic Plate",
  "originUrl": "https://www.pexels.com/photo/19642",
  "title": "White Ceramic Plate",
- "updated": "2019-03-01T00:00:00.000Z"
+ "updated": "2019-12-01T15:01:33.063Z"
 }

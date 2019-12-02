@@ -1,25 +1,24 @@
 {
  "containsTags": [
-  "dinner",
-  "salmon",
-  "seafood",
   "fish",
   "lemon",
-  "lunch",
-  "meat",
   "rice",
   "spinach"
  ],
- "descriptiveTags": {
- },
- "edited": "2019-03-01T00:00:00.000Z",
+ "descriptiveTags": [
+  "dinner",
+  "lunch",
+  "_jeff_add"
+ ],
+ "edited": "2019-12-01T15:13:36.444Z",
  "id": "0000060",
- "isTags": {
- },
+ "isTags": [
+  "tuna"
+ ],
  "license": "Public Domain",
  "licenseUrl": "https://creativecommons.org/publicdomain/",
  "originTitle": "Close-up Photography of Grilled Fish Meat With Green Porridge and Sliced Lemon on Round White Ceramic Plate",
  "originUrl": "https://www.pexels.com/photo/8758",
- "title": "Close-up Photography of Grilled Fish Meat With Green Porridge and Sliced Lemon on Round White Ceramic Plate",
- "updated": "2019-03-01T00:00:00.000Z"
+ "title": "Grilled Tuna Filet",
+ "updated": "2019-12-01T15:13:36.444Z"
 }

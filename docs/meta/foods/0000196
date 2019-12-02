@@ -1,30 +1,23 @@
 {
  "containsTags": [
-  "breakfast",
-  "cerealbowl",
   "grapes",
-  "cereals",
-  "cornflakes",
   "currants",
-  "dessert",
-  "icecream",
-  "milk",
   "muesli",
-  "raisins",
-  "snacking",
-  "sweet",
-  "yoghurt"
+  "berries"
  ],
- "descriptiveTags": {
- },
- "edited": "2019-03-01T00:00:00.000Z",
+ "descriptiveTags": [
+  "breakfast"
+ ],
+ "edited": "2019-12-01T14:47:03.735Z",
  "id": "0000196",
- "isTags": {
- },
+ "isTags": [
+  "yogurt",
+  "granola"
+ ],
  "license": "Public Domain",
  "licenseUrl": "https://creativecommons.org/publicdomain/",
  "originTitle": "Free stock photo of breakfast, cereal bowl, cereals",
  "originUrl": "https://www.pexels.com/photo/40725",
- "title": "Free stock photo of breakfast, cereal bowl, cereals",
- "updated": "2019-03-01T00:00:00.000Z"
+ "title": "Granola with Fruit and Yogurt",
+ "updated": "2019-12-01T14:47:03.735Z"
 }

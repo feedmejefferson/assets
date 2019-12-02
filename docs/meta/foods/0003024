@@ -1,12 +1,18 @@
 {
  "author": "Benny Mazur",
  "authorProfileUrl": "https://www.flickr.com/photos/benimoto",
- "containsTags": {
- },
- "descriptiveTags": [
-  "fried"
+ "containsTags": [
+  "potatoes",
+  "onions",
+  "peas",
+  "spice"
  ],
- "edited": "2019-09-01T00:00:00.000Z",
+ "descriptiveTags": [
+  "deepfried",
+  "indian",
+  "snack"
+ ],
+ "edited": "2019-11-30T15:59:38.123Z",
  "id": "0003024",
  "isTags": [
   "samosas"
@@ -16,5 +22,5 @@
  "originTitle": "Samosas!",
  "originUrl": "https://www.flickr.com/photos/benimoto/537503730",
  "title": "Samosas",
- "updated": "2019-09-01T00:00:00.000Z"
+ "updated": "2019-11-30T15:59:38.123Z"
 }

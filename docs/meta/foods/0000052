@@ -2,19 +2,18 @@
  "containsTags": [
   "burger",
   "fastfood",
-  "hamburger",
-  "unhealthy"
+  "hamburger"
  ],
- "descriptiveTags": {
- },
+ "descriptiveTags": [
+ ],
  "edited": "2019-03-01T00:00:00.000Z",
  "id": "0000052",
- "isTags": {
- },
+ "isTags": [
+ ],
  "license": "Public Domain",
  "licenseUrl": "https://creativecommons.org/publicdomain/",
  "originTitle": "Burger With Ham Ketchup",
  "originUrl": "https://www.pexels.com/photo/103886",
  "title": "Burger With Ham Ketchup",
- "updated": "2019-03-01T00:00:00.000Z"
+ "updated": "2019-12-01T15:01:29.163Z"
 }

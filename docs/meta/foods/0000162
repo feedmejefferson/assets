@@ -1,34 +1,28 @@
 {
  "containsTags": [
   "berries",
-  "berry",
   "blackberries",
-  "breakfast",
-  "cereal",
-  "cerealbowl",
-  "dairy",
   "fresh",
-  "granola",
-  "milk",
   "muesli",
-  "oatmeal",
   "oats",
   "raspberries",
-  "snowflake",
-  "strawberry",
-  "sweet",
-  "yoghurt"
+  "strawberry"
  ],
- "descriptiveTags": {
- },
- "edited": "2019-03-01T00:00:00.000Z",
+ "descriptiveTags": [
+  "_karen_add",
+  "breakfast"
+ ],
+ "edited": "2019-12-01T14:44:21.572Z",
  "id": "0000162",
- "isTags": {
- },
+ "isTags": [
+  "granola",
+  "fruit",
+  "yogurt"
+ ],
  "license": "Public Domain",
  "licenseUrl": "https://creativecommons.org/publicdomain/",
  "originTitle": "Red Strawberry and Raspberry on White Ceramic Bowl",
  "originUrl": "https://www.pexels.com/photo/128865",
- "title": "Red Strawberry and Raspberry on White Ceramic Bowl",
- "updated": "2019-03-01T00:00:00.000Z"
+ "title": "Granola with Fruit and Yogurt",
+ "updated": "2019-12-01T14:44:21.572Z"
 }

@@ -4,19 +4,23 @@
  "containsTags": [
   "meat",
   "bread",
-  "pastrami",
-  "sandwich"
+  "sandwich",
+  "delimeat"
  ],
  "descriptiveTags": [
+  "lunch",
+  "maincourse",
+  "_karen_add"
  ],
- "edited": "2019-03-01T00:00:00.000Z",
+ "edited": "2019-12-01T15:13:06.141Z",
  "id": "0003028",
  "isTags": [
+  "pastrami"
  ],
  "license": "CC BY 2.0",
  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
  "originTitle": "Pastrami sandwich at Max’s Deli",
  "originUrl": "https://www.flickr.com/photos/corsinet/31440516538",
- "title": "Pastrami sandwich at Max’s Deli",
- "updated": "2019-11-22T11:45:12.945Z"
+ "title": "Pastrami Sandwich",
+ "updated": "2019-12-01T15:13:06.141Z"
 }

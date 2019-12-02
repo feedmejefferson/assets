@@ -18,9 +18,11 @@
   "meat",
   "american",
   "barfood",
-  "_mvp"
+  "_mvp",
+  "lunch",
+  "dinner"
  ],
- "edited": "2019-09-01T00:00:00.000Z",
+ "edited": "2019-12-01T15:42:43.840Z",
  "id": "0000008",
  "isTags": [
   "cheeseburger",
@@ -31,5 +33,5 @@
  "originTitle": "Fries and Burger on Plate",
  "originUrl": "https://www.pexels.com/photo/70497",
  "title": "Bacon Cheeseburger with Steak Fries",
- "updated": "2019-09-01T00:00:00.000Z"
+ "updated": "2019-12-01T15:42:43.840Z"
 }

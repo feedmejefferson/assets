@@ -11,9 +11,11 @@
  ],
  "descriptiveTags": [
   "mexicanfood",
-  "_mvp"
+  "_mvp",
+  "lunch",
+  "dinner"
  ],
- "edited": "2019-09-01T00:00:00.000Z",
+ "edited": "2019-12-01T15:42:02.815Z",
  "id": "0000004",
  "isTags": [
   "chickenburrito"
@@ -23,5 +25,5 @@
  "originTitle": "Tacos With Lime",
  "originUrl": "https://www.pexels.com/photo/461198",
  "title": "Chicken Burrito",
- "updated": "2019-09-01T00:00:00.000Z"
+ "updated": "2019-12-01T15:42:02.815Z"
 }

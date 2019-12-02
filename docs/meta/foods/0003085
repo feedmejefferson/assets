@@ -18,9 +18,10 @@
   "lunch",
   "dinner",
   "soup",
-  "_mvp"
+  "_mvp",
+  "_jeff_remove"
  ],
- "edited": "2019-09-01T00:00:00.000Z",
+ "edited": "2019-12-01T15:21:50.987Z",
  "id": "0003085",
  "isTags": [
   "ramen"
@@ -30,5 +31,5 @@
  "originTitle": "Sous Vide Ramen",
  "originUrl": "https://www.flickr.com/photos/140547216@N04/42430820542",
  "title": "Ramen",
- "updated": "2019-11-22T11:44:29.876Z"
+ "updated": "2019-12-01T15:21:50.987Z"
 }

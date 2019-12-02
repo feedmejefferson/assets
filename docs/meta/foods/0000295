@@ -16,19 +16,18 @@
   "mcdonalds",
   "meat",
   "snack",
-  "tomato",
-  "unhealthy"
+  "tomato"
  ],
- "descriptiveTags": {
- },
+ "descriptiveTags": [
+ ],
  "edited": "2019-03-01T00:00:00.000Z",
  "id": "0000295",
- "isTags": {
- },
+ "isTags": [
+ ],
  "license": "Public Domain",
  "licenseUrl": "https://creativecommons.org/publicdomain/",
  "originTitle": "Free stock photo of beef, bun, burger",
  "originUrl": "https://www.pexels.com/photo/35195",
  "title": "Free stock photo of beef, bun, burger",
- "updated": "2019-03-01T00:00:00.000Z"
+ "updated": "2019-12-01T15:01:29.820Z"
 }

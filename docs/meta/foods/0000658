@@ -1,25 +1,23 @@
 {
  "containsTags": [
   "berries",
-  "berry",
-  "fruit",
   "blueberries",
-  "blueberry",
-  "breakfast",
-  "granola",
-  "strawberries",
-  "strawberry"
+  "strawberries"
  ],
- "descriptiveTags": {
- },
- "edited": "2019-03-01T00:00:00.000Z",
+ "descriptiveTags": [
+  "breakfast"
+ ],
+ "edited": "2019-12-01T14:49:22.331Z",
  "id": "0000658",
- "isTags": {
- },
+ "isTags": [
+  "yogurt",
+  "granola",
+  "fruit"
+ ],
  "license": "Public Domain",
  "licenseUrl": "https://creativecommons.org/publicdomain/",
  "originTitle": "Free stock photo of berries, berry, blueberries",
  "originUrl": "https://www.pexels.com/photo/566564",
- "title": "Free stock photo of berries, berry, blueberries",
- "updated": "2019-03-01T00:00:00.000Z"
+ "title": "Granola with Yogurt and Berries",
+ "updated": "2019-12-01T14:49:22.331Z"
 }
