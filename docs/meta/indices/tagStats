@@ -20,11 +20,38 @@
    "id": "_adamremove",
    "isTags": 0,
    "neighbors": [
+    "_foodprep",
     "_jeff_add",
     "_jeff_remove",
     "_karen_add",
-    "_karen_remove",
-    "_mvp"
+    "_karen_remove"
+   ]
+  },
+  "_foodprep": {
+   "containsTags": 0,
+   "descriptiveTags": 2,
+   "dims": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "id": "_foodprep",
+   "isTags": 0,
+   "neighbors": [
+    "_foodprep",
+    "_jeff_add",
+    "_jeff_remove",
+    "_karen_add",
+    "_karen_remove"
    ]
   },
   "_jeff_add": {
@@ -47,11 +74,11 @@
    "id": "_jeff_add",
    "isTags": 0,
    "neighbors": [
+    "_foodprep",
     "_jeff_add",
     "_jeff_remove",
     "_karen_add",
-    "_karen_remove",
-    "_mvp"
+    "_karen_remove"
    ]
   },
   "_jeff_remove": {
@@ -74,11 +101,11 @@
    "id": "_jeff_remove",
    "isTags": 0,
    "neighbors": [
+    "_foodprep",
     "_jeff_add",
     "_jeff_remove",
     "_karen_add",
-    "_karen_remove",
-    "_mvp"
+    "_karen_remove"
    ]
   },
   "_karen_add": {
@@ -101,11 +128,11 @@
    "id": "_karen_add",
    "isTags": 0,
    "neighbors": [
+    "_foodprep",
     "_jeff_add",
     "_jeff_remove",
     "_karen_add",
-    "_karen_remove",
-    "_mvp"
+    "_karen_remove"
    ]
   },
   "_karen_remove": {
@@ -128,11 +155,11 @@
    "id": "_karen_remove",
    "isTags": 0,
    "neighbors": [
+    "_foodprep",
     "_jeff_add",
     "_jeff_remove",
     "_karen_add",
-    "_karen_remove",
-    "_mvp"
+    "_karen_remove"
    ]
   },
   "_mvp": {
@@ -155,11 +182,11 @@
    "id": "_mvp",
    "isTags": 0,
    "neighbors": [
+    "_foodprep",
     "_jeff_add",
     "_jeff_remove",
     "_karen_add",
-    "_karen_remove",
-    "_mvp"
+    "_karen_remove"
    ]
   },
   "alamode": {
@@ -1831,9 +1858,9 @@
    "neighbors": [
     "beefribs",
     "_adamremove",
+    "_foodprep",
     "_jeff_add",
-    "_jeff_remove",
-    "_karen_add"
+    "_jeff_remove"
    ]
   },
   "bbqpotatochips": {
@@ -2808,6 +2835,33 @@
     "vanillaicecream"
    ]
   },
+  "blanched": {
+   "containsTags": 0,
+   "descriptiveTags": 1,
+   "dims": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "id": "blanched",
+   "isTags": 0,
+   "neighbors": [
+    "_foodprep",
+    "_jeff_add",
+    "_jeff_remove",
+    "_karen_add",
+    "_karen_remove"
+   ]
+  },
   "blt": {
    "containsTags": 0,
    "descriptiveTags": 0,
@@ -3349,7 +3403,7 @@
    ]
   },
   "bread": {
-   "containsTags": 132,
+   "containsTags": 133,
    "descriptiveTags": 0,
    "dims": [
     -0.6244,
@@ -3566,7 +3620,7 @@
   },
   "breakfast": {
    "containsTags": 72,
-   "descriptiveTags": 101,
+   "descriptiveTags": 102,
    "dims": [
     -0.4819,
     0.0462,
@@ -3754,7 +3808,7 @@
    ]
   },
   "broccoli": {
-   "containsTags": 6,
+   "containsTags": 5,
    "descriptiveTags": 0,
    "dims": [
     -0.6657,
@@ -3771,7 +3825,7 @@
     -0.1312
    ],
    "id": "broccoli",
-   "isTags": 3,
+   "isTags": 4,
    "neighbors": [
     "cauliflower",
     "kale",
@@ -5158,7 +5212,7 @@
    ]
   },
   "carrots": {
-   "containsTags": 13,
+   "containsTags": 11,
    "descriptiveTags": 0,
    "dims": [
     -0.5495,
@@ -5175,7 +5229,7 @@
     0.0117
    ],
    "id": "carrots",
-   "isTags": 2,
+   "isTags": 4,
    "neighbors": [
     "peas",
     "sweetpotatoes",
@@ -5590,7 +5644,7 @@
    ]
   },
   "cheese": {
-   "containsTags": 116,
+   "containsTags": 117,
    "descriptiveTags": 0,
    "dims": [
     -0.6666,
@@ -7183,8 +7237,8 @@
    ]
   },
   "chopped": {
-   "containsTags": 1,
-   "descriptiveTags": 0,
+   "containsTags": 0,
+   "descriptiveTags": 1,
    "dims": [
     -0.4285,
     -0.0263,
@@ -7824,10 +7878,10 @@
    "isTags": 1,
    "neighbors": [
     "_adamremove",
+    "_foodprep",
     "_jeff_add",
     "_jeff_remove",
-    "_karen_add",
-    "_karen_remove"
+    "_karen_add"
    ]
   },
   "cocacola": {
@@ -11088,7 +11142,7 @@
     -0.0651
    ],
    "id": "fennel",
-   "isTags": 1,
+   "isTags": 2,
    "neighbors": [
     "rosemary",
     "thyme",
@@ -11935,7 +11989,7 @@
    ]
   },
   "fresh": {
-   "containsTags": 85,
+   "containsTags": 83,
    "descriptiveTags": 19,
    "dims": [
     -0.4072,
@@ -12826,7 +12880,7 @@
    ]
   },
   "garlic": {
-   "containsTags": 6,
+   "containsTags": 7,
    "descriptiveTags": 0,
    "dims": [
     -0.6361,
@@ -13875,7 +13929,7 @@
     "ranchdressing",
     "whiterice",
     "_adamremove",
-    "_jeff_add"
+    "_foodprep"
    ]
   },
   "greens": {
@@ -15088,9 +15142,9 @@
    "neighbors": [
     "dingdongs",
     "_adamremove",
+    "_foodprep",
     "_jeff_add",
-    "_jeff_remove",
-    "_karen_add"
+    "_jeff_remove"
    ]
   },
   "hotbeverage": {
@@ -16250,8 +16304,8 @@
     "yuzushioramen",
     "friedrice",
     "_adamremove",
-    "_jeff_add",
-    "_jeff_remove"
+    "_foodprep",
+    "_jeff_add"
    ]
   },
   "kiwi": {
@@ -16687,7 +16741,7 @@
    ]
   },
   "lettuce": {
-   "containsTags": 66,
+   "containsTags": 67,
    "descriptiveTags": 0,
    "dims": [
     -0.6118,
@@ -17012,7 +17066,7 @@
   },
   "lunch": {
    "containsTags": 89,
-   "descriptiveTags": 98,
+   "descriptiveTags": 99,
    "dims": [
     -0.4181,
     0.1765,
@@ -17088,7 +17142,7 @@
     "countryboil",
     "whiterice",
     "_adamremove",
-    "_jeff_add"
+    "_foodprep"
    ]
   },
   "mac'n'cheese": {
@@ -19495,7 +19549,7 @@
    ]
   },
   "onion": {
-   "containsTags": 40,
+   "containsTags": 41,
    "descriptiveTags": 0,
    "dims": [
     -0.6227,
@@ -20623,9 +20677,9 @@
    "neighbors": [
     "m&ms",
     "_adamremove",
+    "_foodprep",
     "_jeff_add",
-    "_jeff_remove",
-    "_karen_add"
+    "_jeff_remove"
    ]
   },
   "peach": {
@@ -21007,7 +21061,7 @@
    ]
   },
   "pepper": {
-   "containsTags": 28,
+   "containsTags": 27,
    "descriptiveTags": 0,
    "dims": [
     -0.5472,
@@ -21107,11 +21161,11 @@
    "id": "pepperoncini",
    "isTags": 0,
    "neighbors": [
+    "_foodprep",
     "_jeff_add",
     "_jeff_remove",
     "_karen_add",
-    "_karen_remove",
-    "_mvp"
+    "_karen_remove"
    ]
   },
   "pepperoni": {
@@ -24572,7 +24626,7 @@
   },
   "roasted": {
    "containsTags": 5,
-   "descriptiveTags": 2,
+   "descriptiveTags": 3,
    "dims": [
     -0.5881,
     0.0182,
@@ -25290,7 +25344,7 @@
     -0.0962
    ],
    "id": "sandwich",
-   "isTags": 10,
+   "isTags": 11,
    "neighbors": [
     "burger",
     "cheeseburger",
@@ -26273,7 +26327,7 @@
   },
   "sidedish": {
    "containsTags": 0,
-   "descriptiveTags": 3,
+   "descriptiveTags": 4,
    "dims": [
     -0.482,
     0.2726,
@@ -26597,7 +26651,7 @@
   },
   "snack": {
    "containsTags": 33,
-   "descriptiveTags": 195,
+   "descriptiveTags": 196,
    "dims": [
     -0.5352,
     -0.0214,
@@ -30538,7 +30592,7 @@
    ]
   },
   "vegetables": {
-   "containsTags": 105,
+   "containsTags": 106,
    "descriptiveTags": 7,
    "dims": [
     -0.6095,
@@ -30619,8 +30673,8 @@
    ]
   },
   "vegetarian": {
-   "containsTags": 15,
-   "descriptiveTags": 102,
+   "containsTags": 16,
+   "descriptiveTags": 103,
    "dims": [
     -0.4508,
     0.2596,
@@ -31583,11 +31637,11 @@
    "id": "yogurt",
    "isTags": 4,
    "neighbors": [
+    "_foodprep",
     "_jeff_add",
     "_jeff_remove",
     "_karen_add",
-    "_karen_remove",
-    "_mvp"
+    "_karen_remove"
    ]
   },
   "yolk": {
