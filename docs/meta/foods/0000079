@@ -3,24 +3,28 @@
   "barbecue",
   "bbq",
   "kebab",
-  "onions",
-  "dinner",
   "grill",
   "grilled",
-  "grilling",
-  "shashliks",
-  "zucchini"
+  "grilling"
  ],
- "descriptiveTags": {
- },
- "edited": "2019-03-01T00:00:00.000Z",
+ "descriptiveTags": [
+  "maincourse",
+  "lunch",
+  "dinner",
+  "mediterranean"
+ ],
+ "edited": "2019-12-10T14:32:58.729Z",
  "id": "0000079",
- "isTags": {
- },
+ "isTags": [
+  "chicken",
+  "zucchini",
+  "bellpepper",
+  "onion"
+ ],
  "license": "Public Domain",
  "licenseUrl": "https://creativecommons.org/publicdomain/",
  "originTitle": "Green Brown and Black Bar B Q",
  "originUrl": "https://www.pexels.com/photo/72160",
- "title": "Green Brown and Black Bar B Q",
- "updated": "2019-03-01T00:00:00.000Z"
+ "title": "Chicken Shish Kebab",
+ "updated": "2019-12-10T14:32:58.729Z"
 }

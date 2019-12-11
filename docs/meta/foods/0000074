@@ -1,21 +1,28 @@
 {
  "containsTags": [
-  "dinner",
   "fish",
-  "lunch",
-  "salmon",
-  "seafood"
+  "seafood",
+  "soysauce",
+  "sesameseeds",
+  "springonions"
  ],
- "descriptiveTags": {
- },
- "edited": "2019-03-01T00:00:00.000Z",
+ "descriptiveTags": [
+  "japanese",
+  "asian",
+  "maincourse",
+  "lunch",
+  "dinner"
+ ],
+ "edited": "2019-12-10T14:30:31.129Z",
  "id": "0000074",
- "isTags": {
- },
+ "isTags": [
+  "salmon",
+  "teriyaki"
+ ],
  "license": "Public Domain",
  "licenseUrl": "https://creativecommons.org/publicdomain/",
  "originTitle": "Cook Fish on White Ceramic Plate",
  "originUrl": "https://www.pexels.com/photo/36768",
- "title": "Cook Fish on White Ceramic Plate",
- "updated": "2019-03-01T00:00:00.000Z"
+ "title": "Japanese-Style Salmon",
+ "updated": "2019-12-10T14:30:31.129Z"
 }

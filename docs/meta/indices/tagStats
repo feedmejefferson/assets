@@ -2,7 +2,7 @@
  "data": {
   "_adamremove": {
    "containsTags": 0,
-   "descriptiveTags": 14,
+   "descriptiveTags": 3,
    "dims": [
     0,
     0,
@@ -21,10 +21,10 @@
    "isTags": 0,
    "neighbors": [
     "_foodprep",
-    "_jeff_add",
-    "_jeff_remove",
-    "_karen_add",
-    "_karen_remove"
+    "_mvp",
+    "britishbacon",
+    "clubsandwich",
+    "goodhealth"
    ]
   },
   "_foodprep": {
@@ -48,123 +48,15 @@
    "isTags": 0,
    "neighbors": [
     "_foodprep",
-    "_jeff_add",
-    "_jeff_remove",
-    "_karen_add",
-    "_karen_remove"
-   ]
-  },
-  "_jeff_add": {
-   "containsTags": 0,
-   "descriptiveTags": 6,
-   "dims": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "id": "_jeff_add",
-   "isTags": 0,
-   "neighbors": [
-    "_foodprep",
-    "_jeff_add",
-    "_jeff_remove",
-    "_karen_add",
-    "_karen_remove"
-   ]
-  },
-  "_jeff_remove": {
-   "containsTags": 0,
-   "descriptiveTags": 7,
-   "dims": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "id": "_jeff_remove",
-   "isTags": 0,
-   "neighbors": [
-    "_foodprep",
-    "_jeff_add",
-    "_jeff_remove",
-    "_karen_add",
-    "_karen_remove"
-   ]
-  },
-  "_karen_add": {
-   "containsTags": 0,
-   "descriptiveTags": 5,
-   "dims": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "id": "_karen_add",
-   "isTags": 0,
-   "neighbors": [
-    "_foodprep",
-    "_jeff_add",
-    "_jeff_remove",
-    "_karen_add",
-    "_karen_remove"
-   ]
-  },
-  "_karen_remove": {
-   "containsTags": 0,
-   "descriptiveTags": 6,
-   "dims": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-   ],
-   "id": "_karen_remove",
-   "isTags": 0,
-   "neighbors": [
-    "_foodprep",
-    "_jeff_add",
-    "_jeff_remove",
-    "_karen_add",
-    "_karen_remove"
+    "_mvp",
+    "britishbacon",
+    "clubsandwich",
+    "goodhealth"
    ]
   },
   "_mvp": {
    "containsTags": 0,
-   "descriptiveTags": 270,
+   "descriptiveTags": 256,
    "dims": [
     0,
     0,
@@ -183,10 +75,10 @@
    "isTags": 0,
    "neighbors": [
     "_foodprep",
-    "_jeff_add",
-    "_jeff_remove",
-    "_karen_add",
-    "_karen_remove"
+    "_mvp",
+    "britishbacon",
+    "clubsandwich",
+    "goodhealth"
    ]
   },
   "alamode": {
@@ -214,33 +106,6 @@
     "chilled",
     "bavarian",
     "cool"
-   ]
-  },
-  "alaskansalmon": {
-   "containsTags": 0,
-   "descriptiveTags": 0,
-   "dims": [
-    -0.085,
-    -0.032,
-    -0.0817,
-    -0.0271,
-    -0.0289,
-    0.0872,
-    -0.035,
-    -0.0388,
-    -0.0319,
-    0.0106,
-    0.0217,
-    0.0109
-   ],
-   "id": "alaskansalmon",
-   "isTags": 1,
-   "neighbors": [
-    "springonions",
-    "walkingtacos",
-    "collardgreens",
-    "mexicanrice",
-    "batteredfish"
    ]
   },
   "alcohol": {
@@ -398,70 +263,16 @@
    "id": "antipasti",
    "isTags": 0,
    "neighbors": [
-    "aperitivo",
-    "aperitif",
     "canapes",
     "bruschetta",
-    "halloumi"
-   ]
-  },
-  "aperitif": {
-   "containsTags": 1,
-   "descriptiveTags": 0,
-   "dims": [
-    -0.3972,
-    -0.0238,
-    -0.0142,
-    0.336,
-    -0.1092,
-    0.0045,
-    -0.0699,
-    0.0462,
-    -0.1458,
-    -0.0852,
-    0.2284,
-    0.1186
-   ],
-   "id": "aperitif",
-   "isTags": 0,
-   "neighbors": [
-    "cava",
-    "aperitivo",
-    "canapes",
-    "prosecco",
-    "mediterranean"
-   ]
-  },
-  "aperitivo": {
-   "containsTags": 1,
-   "descriptiveTags": 0,
-   "dims": [
-    -0.3317,
-    0.0686,
-    0.0536,
-    0.3273,
-    -0.0794,
-    -0.1057,
-    0.0625,
-    0.1271,
-    -0.0707,
-    -0.1237,
-    0.249,
-    0.1402
-   ],
-   "id": "aperitivo",
-   "isTags": 0,
-   "neighbors": [
-    "aperitif",
-    "antipasti",
+    "halloumi",
     "mediterranean",
-    "cava",
-    "italian"
+    "spanakopita"
    ]
   },
   "appetizer": {
-   "containsTags": 30,
-   "descriptiveTags": 69,
+   "containsTags": 28,
+   "descriptiveTags": 70,
    "dims": [
     -0.5692,
     0.2871,
@@ -591,7 +402,7 @@
     "syrup",
     "cornbread",
     "pumpkin",
-    "mashed"
+    "yogurt"
    ]
   },
   "appleturnover": {
@@ -704,7 +515,7 @@
   },
   "asian": {
    "containsTags": 4,
-   "descriptiveTags": 28,
+   "descriptiveTags": 29,
    "dims": [
     -0.3551,
     0.0659,
@@ -730,7 +541,7 @@
    ]
   },
   "asparagus": {
-   "containsTags": 1,
+   "containsTags": 0,
    "descriptiveTags": 0,
    "dims": [
     -0.6834,
@@ -747,7 +558,7 @@
     -0.2316
    ],
    "id": "asparagus",
-   "isTags": 4,
+   "isTags": 5,
    "neighbors": [
     "mushrooms",
     "zucchini",
@@ -1638,7 +1449,7 @@
     0.0202
    ],
    "id": "basil",
-   "isTags": 1,
+   "isTags": 2,
    "neighbors": [
     "parsley",
     "oregano",
@@ -1697,8 +1508,8 @@
     "ricepudding",
     "springonions",
     "tomatoquiche",
-    "alaskansalmon",
-    "picklespear"
+    "picklespear",
+    "fruitplate"
    ]
   },
   "bavarian": {
@@ -1776,10 +1587,10 @@
    "isTags": 0,
    "neighbors": [
     "belgianchocolates",
-    "horsd&#39;oeuvre",
     "mugcake",
     "boiledeggs",
-    "goodhealth"
+    "goodhealth",
+    "freshlybaked"
    ]
   },
   "bbqbeefburger": {
@@ -1806,7 +1617,7 @@
     "graffe",
     "blackolives",
     "caramelsauce",
-    "horsd&#39;oeuvre"
+    "drinkingstraw"
    ]
   },
   "bbqmeat": {
@@ -1859,8 +1670,8 @@
     "beefribs",
     "_adamremove",
     "_foodprep",
-    "_jeff_add",
-    "_jeff_remove"
+    "_mvp",
+    "openfacedsandwich"
    ]
   },
   "bbqpotatochips": {
@@ -2259,7 +2070,7 @@
     0.0296
    ],
    "id": "bellpepper",
-   "isTags": 0,
+   "isTags": 1,
    "neighbors": [
     "bellpeppers",
     "celery",
@@ -2750,8 +2561,8 @@
     "graffe",
     "drinkingstraw",
     "chickensandwich",
-    "horsd&#39;oeuvre",
-    "glazeddonut"
+    "glazeddonut",
+    "frappeccino"
    ]
   },
   "blackpepper": {
@@ -2839,27 +2650,27 @@
    "containsTags": 0,
    "descriptiveTags": 1,
    "dims": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
+    -0.4021,
+    -0.0362,
+    -0.2858,
+    0.1042,
+    0.1499,
+    0.1153,
+    0.1258,
+    -0.0798,
+    -0.0008,
+    -0.0164,
+    -0.0517,
+    -0.1059
    ],
    "id": "blanched",
    "isTags": 0,
    "neighbors": [
-    "_foodprep",
-    "_jeff_add",
-    "_jeff_remove",
-    "_karen_add",
-    "_karen_remove"
+    "greens",
+    "vegetablepie",
+    "chopped",
+    "sprouts",
+    "dried"
    ]
   },
   "blt": {
@@ -2890,7 +2701,7 @@
    ]
   },
   "blueberries": {
-   "containsTags": 22,
+   "containsTags": 21,
    "descriptiveTags": 0,
    "dims": [
     -0.6228,
@@ -2907,7 +2718,7 @@
     -0.0461
    ],
    "id": "blueberries",
-   "isTags": 6,
+   "isTags": 7,
    "neighbors": [
     "strawberries",
     "raspberries",
@@ -3420,7 +3231,7 @@
     -0.0357
    ],
    "id": "bread",
-   "isTags": 12,
+   "isTags": 13,
    "neighbors": [
     "toast",
     "loaf",
@@ -3620,7 +3431,7 @@
   },
   "breakfast": {
    "containsTags": 72,
-   "descriptiveTags": 102,
+   "descriptiveTags": 103,
    "dims": [
     -0.4819,
     0.0462,
@@ -4692,10 +4503,10 @@
    "isTags": 0,
    "neighbors": [
     "fingerfood",
-    "aperitif",
     "cava",
     "prosecco",
-    "chilled"
+    "chilled",
+    "shashlik"
    ]
   },
   "candiedfruit": {
@@ -5342,8 +5153,8 @@
     "prosecco",
     "chilled",
     "alamode",
-    "aperitif",
-    "mediterranean"
+    "mediterranean",
+    "canapes"
    ]
   },
   "celery": {
@@ -5583,10 +5394,10 @@
    "isTags": 0,
    "neighbors": [
     "cheese",
+    "pepperoncini",
     "bacon",
     "pepperoni",
-    "mayonnaise",
-    "goatcheese"
+    "mayonnaise"
    ]
   },
   "cheddarcheese": {
@@ -6017,8 +5828,8 @@
     "dried",
     "roasted",
     "roasting",
-    "mushrooms",
-    "currants"
+    "blanched",
+    "mushrooms"
    ]
   },
   "chicken": {
@@ -6039,7 +5850,7 @@
     -0.0593
    ],
    "id": "chicken",
-   "isTags": 7,
+   "isTags": 8,
    "neighbors": [
     "beef",
     "pork",
@@ -6396,7 +6207,7 @@
     "gulabjamun",
     "thaifood",
     "chocolatefigurines",
-    "shashliks"
+    "alamode"
    ]
   },
   "chilli": {
@@ -7259,8 +7070,8 @@
     "pumpkinseeds",
     "gingerroot",
     "redbellpepper",
-    "caramelapple",
-    "greens"
+    "blanched",
+    "caramelapple"
    ]
   },
   "chowder": {
@@ -7745,8 +7556,8 @@
     "crab",
     "octopus",
     "duck",
-    "creole",
-    "shell"
+    "teriyaki",
+    "creole"
    ]
   },
   "clamchowder": {
@@ -7824,10 +7635,10 @@
    "isTags": 0,
    "neighbors": [
     "refriedbeans",
-    "farmer&#39;ssalad",
     "matchalatte",
     "pintobeans",
-    "cornonthecob"
+    "cornonthecob",
+    "creamfilledcookies"
    ]
   },
   "clottedcream": {
@@ -7879,9 +7690,9 @@
    "neighbors": [
     "_adamremove",
     "_foodprep",
-    "_jeff_add",
-    "_jeff_remove",
-    "_karen_add"
+    "_mvp",
+    "chiliconcarne",
+    "spirelli"
    ]
   },
   "cocacola": {
@@ -8149,9 +7960,9 @@
    "neighbors": [
     "misoramen",
     "hotbeverage",
-    "alaskansalmon",
     "chiliconcarne",
-    "chillioil"
+    "chillioil",
+    "pulledporksandwich"
    ]
   },
   "concoction": {
@@ -8608,9 +8419,9 @@
    "neighbors": [
     "deviledeggs",
     "refriedbeans",
-    "farmer&#39;ssalad",
     "hardboiledeggs",
-    "pintobeans"
+    "pintobeans",
+    "spirelli"
    ]
   },
   "cornsalsa": {
@@ -8637,7 +8448,7 @@
     "refriedbeans",
     "cornonthecob",
     "crabrangoon",
-    "farmer&#39;ssalad"
+    "hardboiledeggs"
    ]
   },
   "cornshell": {
@@ -9068,8 +8879,8 @@
     "popsicle",
     "cream",
     "softserve",
-    "mocha",
-    "milkshake"
+    "parfait",
+    "mocha"
    ]
   },
   "creamslice": {
@@ -9175,9 +8986,9 @@
    "neighbors": [
     "holandaise",
     "spaghettibolognese",
-    "horsd&#39;oeuvre",
     "sparklingwine",
-    "blueberrycheesecake"
+    "blueberrycheesecake",
+    "clamchowder"
    ]
   },
   "crepe": {
@@ -9958,9 +9769,9 @@
    "neighbors": [
     "skewers",
     "chilled",
-    "shashliks",
     "shashlik",
-    "duck"
+    "duck",
+    "liver"
    ]
   },
   "delimeat": {
@@ -9981,7 +9792,7 @@
     0.0259
    ],
    "id": "delimeat",
-   "isTags": 0,
+   "isTags": 1,
    "neighbors": [
     "candycoating",
     "hardboiledeggs",
@@ -10014,7 +9825,7 @@
     "cheesecake",
     "tiramisu",
     "flan",
-    "cake"
+    "parfait"
    ]
   },
   "desserts": {
@@ -10068,7 +9879,7 @@
     "hardboiledeggs",
     "friedeggs",
     "friedegg",
-    "farmer&#39;ssalad"
+    "refriedbeans"
    ]
   },
   "dill": {
@@ -10126,8 +9937,8 @@
    ]
   },
   "dinner": {
-   "containsTags": 112,
-   "descriptiveTags": 109,
+   "containsTags": 108,
+   "descriptiveTags": 115,
    "dims": [
     -0.4407,
     0.2668,
@@ -10153,7 +9964,7 @@
    ]
   },
   "dip": {
-   "containsTags": 12,
+   "containsTags": 13,
    "descriptiveTags": 4,
    "dims": [
     -0.425,
@@ -11043,33 +10854,6 @@
     "tagliatelle"
    ]
   },
-  "farmer&#39;ssalad": {
-   "containsTags": 1,
-   "descriptiveTags": 0,
-   "dims": [
-    -0.1588,
-    -0.0193,
-    -0.0539,
-    -0.0407,
-    -0.0587,
-    -0.0064,
-    0.0568,
-    0.0014,
-    0.0278,
-    0.0029,
-    0.0443,
-    -0.0018
-   ],
-   "id": "farmer&#39;ssalad",
-   "isTags": 0,
-   "neighbors": [
-    "refriedbeans",
-    "pintobeans",
-    "cornonthecob",
-    "jamfilledcookies",
-    "fruitsmoothie"
-   ]
-  },
   "fastfood": {
    "containsTags": 19,
    "descriptiveTags": 6,
@@ -11152,7 +10936,7 @@
    ]
   },
   "feta": {
-   "containsTags": 1,
+   "containsTags": 2,
    "descriptiveTags": 0,
    "dims": [
     -0.6642,
@@ -11179,7 +10963,7 @@
    ]
   },
   "fetacheese": {
-   "containsTags": 2,
+   "containsTags": 1,
    "descriptiveTags": 0,
    "dims": [
     -0.2099,
@@ -11792,11 +11576,11 @@
    "id": "frappe",
    "isTags": 1,
    "neighbors": [
+    "parfait",
     "latte",
     "softserve",
     "icecream",
-    "neapolitan",
-    "mocha"
+    "neapolitan"
    ]
   },
   "frappeccino": {
@@ -11819,11 +11603,11 @@
    "id": "frappeccino",
    "isTags": 1,
    "neighbors": [
-    "horsd&#39;oeuvre",
     "blackolives",
     "chocolatebrowniealamode",
     "pennepasta",
-    "creoleholandaise"
+    "creoleholandaise",
+    "powederedsugar"
    ]
   },
   "french": {
@@ -11955,10 +11739,10 @@
    "isTags": 0,
    "neighbors": [
     "sparklingwine",
-    "horsd&#39;oeuvre",
     "sourdoughbreadbowl",
     "chickenmole",
-    "holandaise"
+    "holandaise",
+    "minicupcakes"
    ]
   },
   "frenchtoast": {
@@ -12765,10 +12549,10 @@
    "isTags": 1,
    "neighbors": [
     "ricepudding",
-    "farmer&#39;ssalad",
     "ricedish",
     "guabao",
-    "jamfilledcookies"
+    "jamfilledcookies",
+    "tomatoquiche"
    ]
   },
   "fruittart": {
@@ -13196,11 +12980,11 @@
    "id": "gingertea",
    "isTags": 1,
    "neighbors": [
-    "farmer&#39;ssalad",
     "strawberryjam",
     "vegetableskewer",
     "fruitsmoothie",
-    "refriedbeans"
+    "refriedbeans",
+    "cornsalsa"
    ]
   },
   "glaze": {
@@ -13442,8 +13226,8 @@
     "blackolives",
     "creoleholandaise",
     "liversausage",
-    "horsd&#39;oeuvre",
-    "obazda"
+    "obazda",
+    "spaghettibolognese"
    ]
   },
   "graham": {
@@ -13578,7 +13362,7 @@
     "cheerios",
     "oatmeal",
     "muesli",
-    "peanutbutter"
+    "yogurt"
    ]
   },
   "grapefruit": {
@@ -13873,9 +13657,9 @@
    "neighbors": [
     "ghostchili",
     "chiliconcarne",
-    "alaskansalmon",
     "buffalochickenwings",
-    "collardgreens"
+    "collardgreens",
+    "carrotjuice"
    ]
   },
   "greenpepper": {
@@ -13952,11 +13736,11 @@
    "id": "greens",
    "isTags": 0,
    "neighbors": [
+    "blanched",
     "sprouts",
     "sweetpotatoes",
     "peas",
-    "sweetcorn",
-    "leafy"
+    "sweetcorn"
    ]
   },
   "greensalsa": {
@@ -14790,10 +14574,10 @@
    "isTags": 0,
    "neighbors": [
     "kidneybeans",
-    "farmer&#39;ssalad",
     "healthydiet",
     "fruitsmoothie",
-    "matchalatte"
+    "matchalatte",
+    "jamfilledcookies"
    ]
   },
   "healthydiet": {
@@ -15093,33 +14877,6 @@
     "melon"
    ]
   },
-  "horsd&#39;oeuvre": {
-   "containsTags": 1,
-   "descriptiveTags": 0,
-   "dims": [
-    -0.1712,
-    -0.0541,
-    0.0247,
-    -0.0072,
-    -0.0547,
-    -0.0356,
-    -0.0675,
-    -0.016,
-    0.0251,
-    0.0216,
-    0.083,
-    0.0158
-   ],
-   "id": "horsd&#39;oeuvre",
-   "isTags": 0,
-   "neighbors": [
-    "creoleholandaise",
-    "sparklingwine",
-    "hardboiledeggs",
-    "bbqbeef",
-    "breadbowl"
-   ]
-  },
   "hostessdingdongs": {
    "containsTags": 0,
    "descriptiveTags": 0,
@@ -15143,8 +14900,8 @@
     "dingdongs",
     "_adamremove",
     "_foodprep",
-    "_jeff_add",
-    "_jeff_remove"
+    "_mvp",
+    "chillioil"
    ]
   },
   "hotbeverage": {
@@ -15169,9 +14926,9 @@
    "neighbors": [
     "collardgreens",
     "mexicanrice",
-    "alaskansalmon",
     "walkingtacos",
-    "misoramen"
+    "misoramen",
+    "spirelli"
    ]
   },
   "hotchocolate": {
@@ -15360,7 +15117,7 @@
     "feta",
     "salad",
     "tahini",
-    "breadsticks"
+    "yogurt"
    ]
   },
   "hungarian": {
@@ -15682,9 +15439,9 @@
    "neighbors": [
     "chipotle",
     "jalapenos",
+    "pepperoncini",
     "coleslaw",
-    "mayo",
-    "cheddar"
+    "mayo"
    ]
   },
   "jalapenos": {
@@ -15709,9 +15466,9 @@
    "neighbors": [
     "peppers",
     "jalapeno",
+    "pepperoncini",
     "bellpeppers",
-    "chipotle",
-    "cilantro"
+    "chipotle"
    ]
   },
   "jam": {
@@ -15797,7 +15554,7 @@
   },
   "japanese": {
    "containsTags": 2,
-   "descriptiveTags": 21,
+   "descriptiveTags": 22,
    "dims": [
     -0.2784,
     0.0317,
@@ -15954,7 +15711,7 @@
     "orangejuice",
     "sour",
     "lemonade",
-    "pulp"
+    "kiwi"
    ]
   },
   "junkfood": {
@@ -16305,7 +16062,7 @@
     "friedrice",
     "_adamremove",
     "_foodprep",
-    "_jeff_add"
+    "_mvp"
    ]
   },
   "kiwi": {
@@ -16517,11 +16274,11 @@
    "id": "latinamerican",
    "isTags": 0,
    "neighbors": [
-    "farmer&#39;ssalad",
     "minicupcakes",
     "frenchpress",
     "spanish",
-    "delimeat"
+    "delimeat",
+    "tunasandwich"
    ]
   },
   "latte": {
@@ -16573,9 +16330,9 @@
    "neighbors": [
     "vegetablepie",
     "greens",
-    "pulp",
     "citrusfruit",
-    "snowpea"
+    "snowpea",
+    "blueberrymuffins"
    ]
   },
   "leek": {
@@ -16660,7 +16417,7 @@
    ]
   },
   "lemon": {
-   "containsTags": 23,
+   "containsTags": 24,
    "descriptiveTags": 0,
    "dims": [
     -0.6157,
@@ -16741,7 +16498,7 @@
    ]
   },
   "lettuce": {
-   "containsTags": 67,
+   "containsTags": 68,
    "descriptiveTags": 0,
    "dims": [
     -0.6118,
@@ -17065,8 +16822,8 @@
    ]
   },
   "lunch": {
-   "containsTags": 89,
-   "descriptiveTags": 99,
+   "containsTags": 85,
+   "descriptiveTags": 107,
    "dims": [
     -0.4181,
     0.1765,
@@ -17363,7 +17120,7 @@
   },
   "maincourse": {
    "containsTags": 2,
-   "descriptiveTags": 1,
+   "descriptiveTags": 9,
    "dims": [
     -0.4396,
     0.2185,
@@ -17871,7 +17628,7 @@
     "greentea",
     "curd",
     "batter",
-    "macaroon"
+    "parfait"
    ]
   },
   "matchalatte": {
@@ -17897,8 +17654,8 @@
     "jamfilledcookies",
     "refriedbeans",
     "sunnysideup",
-    "farmer&#39;ssalad",
-    "pintobeans"
+    "pintobeans",
+    "belgianwaffle"
    ]
   },
   "mayo": {
@@ -18173,7 +17930,7 @@
   },
   "mediterranean": {
    "containsTags": 0,
-   "descriptiveTags": 1,
+   "descriptiveTags": 3,
    "dims": [
     -0.3936,
     0.0011,
@@ -18195,7 +17952,7 @@
     "italian",
     "greek",
     "prosecco",
-    "aperitif"
+    "icecreamcone"
    ]
   },
   "melon": {
@@ -18301,9 +18058,9 @@
    "neighbors": [
     "walkingtacos",
     "goodhealth",
-    "alaskansalmon",
     "spirelli",
-    "britishbacon"
+    "britishbacon",
+    "kimchifriedrice"
    ]
   },
   "milk": {
@@ -18685,7 +18442,7 @@
    ]
   },
   "mozzarella": {
-   "containsTags": 18,
+   "containsTags": 17,
    "descriptiveTags": 0,
    "dims": [
     -0.6409,
@@ -18702,7 +18459,7 @@
     0.0086
    ],
    "id": "mozzarella",
-   "isTags": 0,
+   "isTags": 1,
    "neighbors": [
     "parmigiano-reggiano",
     "parmesan",
@@ -19495,7 +19252,7 @@
    ]
   },
   "olives": {
-   "containsTags": 12,
+   "containsTags": 13,
    "descriptiveTags": 0,
    "dims": [
     -0.5834,
@@ -19566,7 +19323,7 @@
     -0.05
    ],
    "id": "onion",
-   "isTags": 1,
+   "isTags": 2,
    "neighbors": [
     "garlic",
     "bellpepper",
@@ -19603,7 +19360,7 @@
    ]
   },
   "onions": {
-   "containsTags": 14,
+   "containsTags": 13,
    "descriptiveTags": 0,
    "dims": [
     -0.6386,
@@ -19701,7 +19458,7 @@
     -0.0155
    ],
    "id": "orange",
-   "isTags": 2,
+   "isTags": 3,
    "neighbors": [
     "honeydew",
     "grapefruit",
@@ -19895,8 +19652,8 @@
     "frenchcuisine",
     "kaiserroll",
     "cirspy",
-    "farmer&#39;ssalad",
-    "cookedegg"
+    "cookedegg",
+    "friedegg"
    ]
   },
   "oven": {
@@ -20193,7 +19950,7 @@
     "sorbet",
     "mousse",
     "profiterole",
-    "torte"
+    "parfait"
    ]
   },
   "papaya": {
@@ -20304,6 +20061,33 @@
     "capers"
    ]
   },
+  "parfait": {
+   "containsTags": 1,
+   "descriptiveTags": 0,
+   "dims": [
+    -0.4913,
+    -0.1817,
+    0.2014,
+    0.1266,
+    -0.1942,
+    -0.0699,
+    0.0678,
+    0.044,
+    0.0777,
+    -0.0454,
+    0.0103,
+    -0.013
+   ],
+   "id": "parfait",
+   "isTags": 0,
+   "neighbors": [
+    "frappe",
+    "softserve",
+    "cone",
+    "flan",
+    "alamode"
+   ]
+  },
   "parmaham": {
    "containsTags": 1,
    "descriptiveTags": 0,
@@ -20332,7 +20116,7 @@
    ]
   },
   "parmesan": {
-   "containsTags": 4,
+   "containsTags": 5,
    "descriptiveTags": 0,
    "dims": [
     -0.6717,
@@ -20511,7 +20295,7 @@
     0.0897
    ],
    "id": "pasta",
-   "isTags": 8,
+   "isTags": 9,
    "neighbors": [
     "penne",
     "fettuccini",
@@ -20678,8 +20462,8 @@
     "m&ms",
     "_adamremove",
     "_foodprep",
-    "_jeff_add",
-    "_jeff_remove"
+    "_mvp",
+    "mexicanrice"
    ]
   },
   "peach": {
@@ -21145,27 +20929,27 @@
    "containsTags": 1,
    "descriptiveTags": 0,
    "dims": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
+    -0.6276,
+    0.1296,
+    -0.2289,
+    -0.0373,
+    0.0253,
+    -0.2848,
+    0.0052,
+    0.2182,
+    -0.1121,
+    0.105,
+    -0.0161,
+    0.1047
    ],
    "id": "pepperoncini",
    "isTags": 0,
    "neighbors": [
-    "_foodprep",
-    "_jeff_add",
-    "_jeff_remove",
-    "_karen_add",
-    "_karen_remove"
+    "oregano",
+    "cheddar",
+    "mozzarella",
+    "jalapeno",
+    "goatcheese"
    ]
   },
   "pepperoni": {
@@ -21294,7 +21078,7 @@
     0.0784
    ],
    "id": "pesto",
-   "isTags": 0,
+   "isTags": 1,
    "neighbors": [
     "feta",
     "parmesan",
@@ -21863,11 +21647,11 @@
    "id": "pintobeans",
    "isTags": 0,
    "neighbors": [
-    "farmer&#39;ssalad",
     "refriedbeans",
     "hardboiledeggs",
     "frenchonionsoup",
-    "poachedeggs"
+    "poachedeggs",
+    "cornonthecob"
    ]
   },
   "pinwheels": {
@@ -22027,9 +21811,9 @@
    "neighbors": [
     "friedegg",
     "bagelbites",
-    "horsd&#39;oeuvre",
     "bakedgoods",
-    "puffpastrytart"
+    "puffpastrytart",
+    "sparklingwine"
    ]
   },
   "plantains": {
@@ -22216,9 +22000,9 @@
    "neighbors": [
     "herbal",
     "milkchocolate",
-    "pulp",
     "quark",
-    "carrot"
+    "carrot",
+    "fruitsalad"
    ]
   },
   "poppyseed": {
@@ -22347,7 +22131,7 @@
     -0.035
    ],
    "id": "pork",
-   "isTags": 7,
+   "isTags": 8,
    "neighbors": [
     "beef",
     "chicken",
@@ -23328,33 +23112,6 @@
     "beeftenderloin"
    ]
   },
-  "pulp": {
-   "containsTags": 1,
-   "descriptiveTags": 0,
-   "dims": [
-    -0.3359,
-    -0.1905,
-    -0.0929,
-    -0.1406,
-    -0.0355,
-    0.0915,
-    -0.098,
-    -0.0661,
-    0.1028,
-    -0.0599,
-    0.0886,
-    -0.006
-   ],
-   "id": "pulp",
-   "isTags": 0,
-   "neighbors": [
-    "freshfruit",
-    "citrusfruit",
-    "citrusfruits",
-    "fruitsalad",
-    "peanutbuttercups"
-   ]
-  },
   "pumpkin": {
    "containsTags": 2,
    "descriptiveTags": 0,
@@ -23842,7 +23599,7 @@
    ]
   },
   "raspberry": {
-   "containsTags": 10,
+   "containsTags": 11,
    "descriptiveTags": 0,
    "dims": [
     -0.5747,
@@ -24294,10 +24051,10 @@
    "isTags": 0,
    "neighbors": [
     "cornonthecob",
-    "farmer&#39;ssalad",
     "cornsalsa",
     "pintobeans",
-    "frenchonionsoup"
+    "frenchonionsoup",
+    "jamfilledcookies"
    ]
   },
   "relish": {
@@ -24626,7 +24383,7 @@
   },
   "roasted": {
    "containsTags": 5,
-   "descriptiveTags": 3,
+   "descriptiveTags": 4,
    "dims": [
     -0.5881,
     0.0182,
@@ -25057,7 +24814,7 @@
    ]
   },
   "salad": {
-   "containsTags": 46,
+   "containsTags": 44,
    "descriptiveTags": 0,
    "dims": [
     -0.7124,
@@ -25074,7 +24831,7 @@
     -0.005
    ],
    "id": "salad",
-   "isTags": 12,
+   "isTags": 14,
    "neighbors": [
     "spinach",
     "artichoke",
@@ -25111,7 +24868,7 @@
    ]
   },
   "salmon": {
-   "containsTags": 22,
+   "containsTags": 21,
    "descriptiveTags": 0,
    "dims": [
     -0.5559,
@@ -25128,7 +24885,7 @@
     -0.1812
    ],
    "id": "salmon",
-   "isTags": 5,
+   "isTags": 7,
    "neighbors": [
     "shellfish",
     "octopus",
@@ -25327,7 +25084,7 @@
    ]
   },
   "sandwich": {
-   "containsTags": 33,
+   "containsTags": 32,
    "descriptiveTags": 0,
    "dims": [
     -0.5994,
@@ -25344,7 +25101,7 @@
     -0.0962
    ],
    "id": "sandwich",
-   "isTags": 11,
+   "isTags": 12,
    "neighbors": [
     "burger",
     "cheeseburger",
@@ -25812,6 +25569,33 @@
     "tartarsauce"
    ]
   },
+  "seeds": {
+   "containsTags": 0,
+   "descriptiveTags": 0,
+   "dims": [
+    -0.4382,
+    -0.2053,
+    -0.27,
+    -0.1339,
+    0.1468,
+    0.0526,
+    0.0713,
+    -0.0928,
+    0.0897,
+    -0.1485,
+    -0.0266,
+    -0.0414
+   ],
+   "id": "seeds",
+   "isTags": 1,
+   "neighbors": [
+    "greens",
+    "sweetpotatoes",
+    "leafy",
+    "sweetpotato",
+    "carrots"
+   ]
+  },
   "sekt": {
    "containsTags": 1,
    "descriptiveTags": 0,
@@ -25867,7 +25651,7 @@
    ]
   },
   "sesameseeds": {
-   "containsTags": 7,
+   "containsTags": 8,
    "descriptiveTags": 0,
    "dims": [
     -0.2675,
@@ -25994,38 +25778,11 @@
    "id": "shashlik",
    "isTags": 0,
    "neighbors": [
-    "shashliks",
     "doner",
     "fingerfood",
     "skewers",
-    "canapes"
-   ]
-  },
-  "shashliks": {
-   "containsTags": 1,
-   "descriptiveTags": 0,
-   "dims": [
-    -0.2337,
-    0.0356,
-    -0.0061,
-    0.0456,
-    -0.0971,
-    0.1175,
-    -0.0425,
-    -0.0352,
-    -0.1394,
-    -0.0291,
-    0.0233,
-    0.1388
-   ],
-   "id": "shashliks",
-   "isTags": 0,
-   "neighbors": [
-    "thaifood",
-    "bbqsauce",
-    "barfood",
-    "cremebrulee",
-    "italianfood"
+    "canapes",
+    "delicacy"
    ]
   },
   "shell": {
@@ -26300,7 +26057,7 @@
   },
   "side": {
    "containsTags": 0,
-   "descriptiveTags": 35,
+   "descriptiveTags": 40,
    "dims": [
     -0.1905,
     0.0775,
@@ -26615,11 +26372,11 @@
    "id": "smoothie",
    "isTags": 3,
    "neighbors": [
+    "yogurt",
     "frappe",
     "popsicle",
     "greentea",
-    "softserve",
-    "banana"
+    "parfait"
    ]
   },
   "smores": {
@@ -26651,7 +26408,7 @@
   },
   "snack": {
    "containsTags": 33,
-   "descriptiveTags": 196,
+   "descriptiveTags": 199,
    "dims": [
     -0.5352,
     -0.0214,
@@ -26677,7 +26434,7 @@
    ]
   },
   "snacks": {
-   "containsTags": 3,
+   "containsTags": 2,
    "descriptiveTags": 2,
    "dims": [
     -0.4589,
@@ -26861,8 +26618,8 @@
     "icecream",
     "frappe",
     "twix",
-    "oreo",
-    "creamsicle"
+    "parfait",
+    "oreo"
    ]
   },
   "sorbet": {
@@ -26887,9 +26644,9 @@
    "neighbors": [
     "sherbet",
     "pannacotta",
+    "parfait",
     "passionfruit",
-    "tart",
-    "creamsicle"
+    "tart"
    ]
   },
   "soup": {
@@ -27109,7 +26866,7 @@
    ]
   },
   "soysauce": {
-   "containsTags": 7,
+   "containsTags": 8,
    "descriptiveTags": 0,
    "dims": [
     -0.4657,
@@ -27267,7 +27024,7 @@
     "frenchcuisine",
     "rootvegetable",
     "creoleholandaise",
-    "horsd&#39;oeuvre"
+    "barbecuesauce"
    ]
   },
   "spice": {
@@ -27320,8 +27077,8 @@
     "chilli",
     "hotsauce",
     "soysauce",
-    "blackpepper",
-    "sichuan"
+    "teriyaki",
+    "blackpepper"
    ]
   },
   "spinach": {
@@ -27487,7 +27244,7 @@
    ]
   },
   "springonions": {
-   "containsTags": 1,
+   "containsTags": 2,
    "descriptiveTags": 0,
    "dims": [
     -0.1019,
@@ -27507,10 +27264,10 @@
    "isTags": 0,
    "neighbors": [
     "donerkebab",
-    "alaskansalmon",
     "batteredfish",
     "ricepudding",
-    "crabrangoon"
+    "crabrangoon",
+    "mugcake"
    ]
   },
   "springrolls": {
@@ -27568,7 +27325,7 @@
    ]
   },
   "sprouts": {
-   "containsTags": 3,
+   "containsTags": 4,
    "descriptiveTags": 0,
    "dims": [
     -0.5552,
@@ -28588,9 +28345,9 @@
    "neighbors": [
     "bean",
     "carrot",
-    "pulp",
     "greens",
-    "sweetpotatoes"
+    "sweetpotatoes",
+    "mashed"
    ]
   },
   "sweetpotatobiscuit": {
@@ -28966,9 +28723,9 @@
    "neighbors": [
     "blackberry",
     "linzer",
+    "parfait",
     "raspberry",
-    "custard",
-    "prosecco"
+    "custard"
    ]
   },
   "tartare": {
@@ -29104,6 +28861,33 @@
     "poppy",
     "greentea",
     "herbal"
+   ]
+  },
+  "teriyaki": {
+   "containsTags": 0,
+   "descriptiveTags": 0,
+   "dims": [
+    -0.5835,
+    0.1943,
+    -0.0406,
+    -0.0725,
+    -0.2217,
+    -0.0083,
+    0.0092,
+    -0.1431,
+    -0.0144,
+    0.0806,
+    0.0118,
+    -0.0681
+   ],
+   "id": "teriyaki",
+   "isTags": 1,
+   "neighbors": [
+    "creole",
+    "clam",
+    "tofu",
+    "buffalo",
+    "ramen"
    ]
   },
   "tetedemoine": {
@@ -29479,9 +29263,9 @@
    "neighbors": [
     "nori",
     "wonton",
+    "teriyaki",
     "steamed",
-    "noodles",
-    "ramen"
+    "noodles"
    ]
   },
   "tofuphadthai": {
@@ -29539,7 +29323,7 @@
    ]
   },
   "tomato": {
-   "containsTags": 68,
+   "containsTags": 69,
    "descriptiveTags": 0,
    "dims": [
     -0.6631,
@@ -29610,7 +29394,7 @@
     0.0758
    ],
    "id": "tomatoes",
-   "isTags": 5,
+   "isTags": 6,
    "neighbors": [
     "peppers",
     "cucumbers",
@@ -30123,7 +29907,7 @@
     -0.0008
    ],
    "id": "turkey",
-   "isTags": 0,
+   "isTags": 1,
    "neighbors": [
     "roast",
     "ham",
@@ -30690,7 +30474,7 @@
     0.0399
    ],
    "id": "vegetarian",
-   "isTags": 0,
+   "isTags": 1,
    "neighbors": [
     "pescatarian",
     "dinner",
@@ -30935,11 +30719,11 @@
    "id": "walkingtacos",
    "isTags": 0,
    "neighbors": [
-    "alaskansalmon",
     "mexicanrice",
     "spirelli",
     "redcabbage",
-    "springonions"
+    "springonions",
+    "boiledeggs"
    ]
   },
   "walnuts": {
@@ -31554,7 +31338,7 @@
     -0.1143
    ],
    "id": "wrap",
-   "isTags": 1,
+   "isTags": 2,
    "neighbors": [
     "chickenpotpie",
     "burgerbuns",
@@ -31621,27 +31405,27 @@
    "containsTags": 0,
    "descriptiveTags": 0,
    "dims": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
+    -0.6381,
+    -0.1608,
+    0.0499,
+    -0.1352,
+    0.016,
+    -0.1811,
+    0.0218,
+    -0.0311,
+    0.1857,
+    -0.152,
+    0.0749,
+    0.2064
    ],
    "id": "yogurt",
-   "isTags": 4,
+   "isTags": 5,
    "neighbors": [
-    "_foodprep",
-    "_jeff_add",
-    "_jeff_remove",
-    "_karen_add",
-    "_karen_remove"
+    "granola",
+    "orangejuice",
+    "juice",
+    "smoothie",
+    "applesauce"
    ]
   },
   "yolk": {
@@ -31699,7 +31483,7 @@
    ]
   },
   "zucchini": {
-   "containsTags": 4,
+   "containsTags": 3,
    "descriptiveTags": 0,
    "dims": [
     -0.6915,
@@ -31716,7 +31500,7 @@
     -0.1737
    ],
    "id": "zucchini",
-   "isTags": 0,
+   "isTags": 1,
    "neighbors": [
     "spinach",
     "kale",

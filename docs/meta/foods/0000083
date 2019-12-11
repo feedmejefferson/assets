@@ -1,23 +1,26 @@
 {
  "containsTags": [
   "cherrytomatoes",
-  "tomatoes",
   "vegetarian",
-  "mozzarella",
   "oregano",
-  "salad",
   "tomato"
  ],
- "descriptiveTags": {
- },
- "edited": "2019-03-01T00:00:00.000Z",
+ "descriptiveTags": [
+  "side",
+  "mediterranean"
+ ],
+ "edited": "2019-12-10T14:39:10.901Z",
  "id": "0000083",
- "isTags": {
- },
+ "isTags": [
+  "tomatoes",
+  "mozzarella",
+  "basil",
+  "salad"
+ ],
  "license": "Public Domain",
  "licenseUrl": "https://creativecommons.org/publicdomain/",
  "originTitle": "Fruit Salad in White Ceramic Bowl",
  "originUrl": "https://www.pexels.com/photo/7765",
- "title": "Fruit Salad in White Ceramic Bowl",
- "updated": "2019-03-01T00:00:00.000Z"
+ "title": "Caprese Salad",
+ "updated": "2019-12-10T14:39:10.901Z"
 }

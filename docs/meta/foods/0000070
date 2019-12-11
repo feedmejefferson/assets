@@ -1,19 +1,25 @@
 {
  "containsTags": [
   "bread",
-  "snacks",
-  "wheat"
+  "wheat",
+  "lettuce",
+  "tomato"
  ],
- "descriptiveTags": {
- },
- "edited": "2019-03-01T00:00:00.000Z",
+ "descriptiveTags": [
+  "maincourse",
+  "snack",
+  "lunch"
+ ],
+ "edited": "2019-12-10T14:28:06.344Z",
  "id": "0000070",
- "isTags": {
- },
+ "isTags": [
+  "wrap",
+  "vegetarian"
+ ],
  "license": "Public Domain",
  "licenseUrl": "https://creativecommons.org/publicdomain/",
  "originTitle": "Brown Vegetable Wrap",
  "originUrl": "https://www.pexels.com/photo/76784",
- "title": "Brown Vegetable Wrap",
- "updated": "2019-03-01T00:00:00.000Z"
+ "title": "Vegetarian Wrap",
+ "updated": "2019-12-10T14:28:06.344Z"
 }
